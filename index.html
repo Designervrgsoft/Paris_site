@@ -1,228 +1,336 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-<div>
-    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/logo.png">
+<div class="once_place_img">
+    <div class="bg_top"><img src="wp-content/uploads/2019/02/bg_top.svg"></div>
+    <div class="logo_point"><img src="wp-content/uploads/2019/02/logo_point.svg"></div>
+    <div>
+        <p>Every story starts somewhere...</p>
+    </div>
 </div>
-<div>
-    <p>MOST
-        <span>ROMANTIC</span>
-        SPOTS IN YOUR CITY
-    </p>
+<div class="search">
+    <p class="search_title">Find the best spot for your date</p>
+    <div class="city">
+        <label for="city-input" class="shadow">
+            <div>
+                <img src="wp-content/uploads/2019/01/iconfinder.png"/>
+            </div>
+            <div>
+                <input id="city-input" style="border: none;" placeholder="City"/>
+            </div>
+        </label>
+    </div>
+    <div class="data">
+        <label for="data-input" class="shadow">
+            <div>
+                <img src="wp-content/uploads/2019/01/date-icon.png"/>
+            </div>
+            <div>
+                <input id="data-input" style="border: none;" placeholder="Day and time"/>
+            </div>
+        </label>
+    </div>
+    <div class="button_search">
+        <button>Search</button>
+    </div>
 </div>
-<div>
-    <label for="city-input">
-        <img src="http://localhost/paris_test/wp-content/uploads/2019/01/iconfinder.png"/>
-        <input id="city-input"style="border: none;" placeholder="City"/>
-    </label>
-    <label for="data-input">
-        <img src="http://localhost/paris_test/wp-content/uploads/2019/01/date-icon.png"/>
-        <input id="data-input"style="border: none;" placeholder="Day and time"/>
-    </label>
-    <button>Search</button>
+<div class="for_what">
+    <p class="for_what_title">For what</p>
+    <div>
+        <button class="category button_active">All</button>
+    </div>
+    <div>
+        <button class="category">
+            <img src="wp-content/uploads/2019/01/coffee.png" alt="Coffee" style="vertical-align: middle">
+            <p>Coffee</p>
+        </button>
+    </div>
+    <div>
+        <button class="category ">
+            <img src="wp-content/uploads/2019/01/drink.png" alt="Drink" style="vertical-align: middle">
+            <p>Drink</p>
+        </button>
+    </div>
+    <div>
+        <button class="category ">
+            <img src="wp-content/uploads/2019/01/dinner.png" alt="Restaurant" style="vertical-align: middle">
+            <p>Restaurant</p>
+        </button>
+    </div>
 </div>
-<div>
-    <p>For what</p>
-    <button>All</button>
-    <button>
-        <img src="http://localhost/paris_test/wp-content/uploads/2019/01/coffee.png" alt="Coffee" style="vertical-align: middle">
-        Coffee
-    </button>
-    <button>
-        <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png" alt="Drink" style="vertical-align: middle">
-        Coffee
-    </button>
-    <button>
-        <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png" alt="Restaurant" style="vertical-align: middle">
-        Coffee
-    </button>
-</div>
-<div>
-    <p>Featured</p>
+<div class="featured">
+    <p class="featured_title">Featured</p>
     <div class="all_img">
-        <div class="first_line">
-            <div class="features_images">
+
+        <div class="features_images img_one">
+            <div class="features_content">
                 <div class="features_text">
                     <p class="features_name">Mexican coffee</p>
                     <p class="features_location">Paris 3eme</p>
                 </div>
                 <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
                 </div>
                 <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
                 </div>
             </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
             </div>
         </div>
-        <div class="first_line">
-            <div class="features_images">
+        <div class="features_images img_two">
+            <div class="features_content">
                 <div class="features_text">
                     <p class="features_name">Mexican coffee</p>
                     <p class="features_location">Paris 3eme</p>
                 </div>
                 <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
                 </div>
                 <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
                 </div>
             </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
             </div>
         </div>
-        <div class="first_line">
-            <div class="features_images">
+        <div class="features_images img_three">
+            <div class="features_content">
                 <div class="features_text">
                     <p class="features_name">Mexican coffee</p>
                     <p class="features_location">Paris 3eme</p>
                 </div>
                 <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
                 </div>
                 <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
                 </div>
             </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
-            </div>
-            <div class="features_images">
-                <div class="features_text">
-                    <p class="features_name">Mexican coffee</p>
-                    <p class="features_location">Paris 3eme</p>
-                </div>
-                <div class="features_crowns">
-                    <p>3</p>
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/crown.png">
-                </div>
-                <div class="img_type">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/drink.png">
-                    <img src="http://localhost/paris_test/wp-content/uploads/2019/01/dinner.png">
-                </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
             </div>
         </div>
+        <div class="features_images img_four">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+
+        <div class="features_images img_five">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_six">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_seven">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_eight">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+
+        <div class="features_images img_nine">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_ten">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_eleven">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_name">Mexican coffee</p>
+                    <p class="features_location">Paris 3eme</p>
+                </div>
+                <div class="features_crowns">
+                    <div><p>3</p></div>
+                    <div><img src="wp-content/uploads/2019/01/crown.png"></div>
+                </div>
+                <div class="img_type">
+                    <div><img src="wp-content/uploads/2019/01/drink_white.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/cup-hot.png"></div>
+                    <div><img src="wp-content/uploads/2019/01/dinner_white.png"></div>
+                </div>
+            </div>
+            <div class="features_bg_img">
+                <img src="wp-content/uploads/2019/01/coffee.jpg">
+            </div>
+        </div>
+        <div class="features_images img_twelve">
+            <div class="features_content">
+                <div class="features_text">
+                    <p class="features_label">Add Your Fav Place</p>
+                    <p class="features_caption">Wherever u want</p>
+                </div>
+            </div>
+
+            <div class="features_bg_img ">
+                <div class="add_button"><a href="#"><img src="wp-content/uploads/2019/01/add.png"/></a></div>
+                <div><img src="wp-content/uploads/2019/01/features_bg.png"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="submit">
+    <div class="submit_first">
+        <div>
+            <img src="wp-content/uploads/2019/01/submit.png">
+        </div>
+        <h3>
+            WANT TO SHARE A PLACE WITH US ?
+        </h3>
+        <button>Submit</button>
+    </div>
+    <div class="submit_img">
+        <img src="wp-content/uploads/2019/01/rosemarys.png">
     </div>
 </div>
 
 
 
-</body>
-</html>
+<div class="apps">
+    <div class="title_apps">
+        <p>
+            Download Once
+        </p>
+    </div>
+    <div class="button_apps">
+        <div class="button_google">
+            <img src="wp-content/uploads/2019/02/google_play.svg">
+        </div>
+        <div class="button_app_store">
+            <img src="wp-content/uploads/2019/02/app_store.svg">
+        </div>
+    </div>
+</div>
+
+<div class="language_container">
+    <div><img src=""></div>
+    <div><img src=""></div>
+    <div><?php echo do_shortcode('[gtranslate]'); ?></div>
+</div>

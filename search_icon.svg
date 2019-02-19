@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>search_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.9662871%" y1="50%" x2="121.869831%" y2="113.335938%" id="linearGradient-1">
+            <stop stop-color="#3072E2" offset="0%"></stop>
+            <stop stop-color="#A16DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Once-Places---DESKTOP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_08_submit-dialog_FR" transform="translate(-150.000000, -648.000000)">
+            <g id="search-section" transform="translate(125.000000, 633.000000)">
+                <g id="search-bar">
+                    <g id="search_icon" transform="translate(26.000000, 16.000000)">
+                        <g id="iconfinder_Loupe_2202246" fill-rule="evenodd"></g>
+                        <path d="M12,11.6241611 L8.4295302,8.05369128 C9.20805369,7.19463087 9.66442953,6.06711409 9.66442953,4.83221477 C9.66442953,2.17449664 7.48993289,0 4.83221477,0 C2.17449664,0 0,2.17449664 0,4.83221477 C0,7.48993289 2.17449664,9.66442953 4.83221477,9.66442953 C6.06711409,9.66442953 7.19463087,9.18120805 8.05369128,8.4295302 L11.6241611,12 L12,11.6241611 Z M0.536912752,4.83221477 C0.536912752,2.46979866 2.46979866,0.536912752 4.83221477,0.536912752 C7.19463087,0.536912752 9.12751678,2.46979866 9.12751678,4.83221477 C9.12751678,7.19463087 7.19463087,9.12751678 4.83221477,9.12751678 C2.46979866,9.12751678 0.536912752,7.19463087 0.536912752,4.83221477 Z" id="Shape" stroke="url(#linearGradient-1)" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

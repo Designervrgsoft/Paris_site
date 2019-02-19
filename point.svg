@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="17px" viewBox="0 0 14 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 14 0 14 17 0 17"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#3072E2" offset="0%"></stop>
+            <stop stop-color="#A16DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Once-Places---DESKTOP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_07_submit-dialog" transform="translate(-319.000000, -1017.000000)">
+            <g id="Group-3" transform="translate(319.000000, 1017.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M7,12.75 C3.9067,12.75 1.4,10.21275 1.4,7.08333333 C1.4,3.95391667 3.9067,1.41666667 7,1.41666667 C10.0933,1.41666667 12.6,3.95391667 12.6,7.08333333 C12.6,10.21275 10.0933,12.75 7,12.75 M0,6.95229167 C0,10.8516667 3.0625,13.517125 7,17 C10.9375,13.517125 14,10.8516667 14,6.95229167 C14,3.113125 10.8654,0 7,0 C3.1346,0 0,3.113125 0,6.95229167 Z" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

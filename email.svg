@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-1">
+            <stop stop-color="#A16DD7" offset="0%"></stop>
+            <stop stop-color="#3072E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Once-Places---DESKTOP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_07_submit-dialog" transform="translate(-321.000000, -1101.000000)" fill="url(#linearGradient-1)">
+            <g id="Submit-dialog" transform="translate(174.000000, 649.000000)">
+                <g id="adresse" transform="translate(125.000000, 428.000000)">
+                    <path d="M22,34.984 L36.645,34.984 L36.645,24 L22,24 L22,34.984 Z M23.515,25.221 L35.13,25.221 L29.322,29.927 L23.515,25.221 Z M32.607,28.835 L35.425,26.553 L35.425,32.257 L32.607,28.835 Z M23.22,26.553 L26.041,28.839 L23.22,32.324 L23.22,26.553 Z M31.66,29.604 L35.084,33.764 L23.624,33.764 L26.989,29.606 L29.322,31.498 L31.66,29.604 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

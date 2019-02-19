@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="41px" viewBox="0 0 96 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 7 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="52.9662871%" y1="50%" x2="121.869831%" y2="113.335938%" id="linearGradient-1">
+            <stop stop-color="#3072E2" offset="0%"></stop>
+            <stop stop-color="#A16DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Once-Places---DESKTOP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_01_landing" transform="translate(-796.000000, -411.000000)" fill="url(#linearGradient-1)">
+            <g id="search-section" transform="translate(124.000000, 410.000000)">
+                <g id="search-button" transform="translate(672.000000, 1.000000)">
+                    <rect id="Rectangle-7-Copy-2" x="0" y="0" width="95.1" height="40.3670455" rx="2.7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
