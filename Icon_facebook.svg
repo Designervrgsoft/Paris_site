@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>iconmonstr-facebook-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="155.058594%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3072E2" offset="0%"></stop>
+            <stop stop-color="#A16DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_05_place-detail_FR" transform="translate(-263.000000, -292.000000)" fill-rule="nonzero">
+            <g id="Popin" transform="translate(241.000000, 234.000000)">
+                <g id="Texte" transform="translate(22.000000, 29.000000)">
+                    <g id="iconmonstr-facebook-1" transform="translate(0.671875, 29.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.00941685268" x="0" y="0" width="15" height="15"></rect>
+                        <path d="M5.875,5 L4,5 L4,7.5 L5.875,7.5 L5.875,15 L9,15 L9,7.5 L11.27625,7.5 L11.5,5 L9,5 L9,3.958125 C9,3.36125 9.12,3.125 9.696875,3.125 L11.5,3.125 L11.5,0 L9.12,0 C6.8725,0 5.875,0.989375 5.875,2.884375 L5.875,5 Z" id="Icon_facebook" fill="url(#linearGradient-1)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

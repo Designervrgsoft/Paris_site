@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>iconmonstr-sharethis-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 12 0 12 12 0 12"></polygon>
+        <linearGradient x1="28.1575521%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#3072E2" offset="0%"></stop>
+            <stop stop-color="#A16DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OncePlaces_D_05_place-detail_FR" transform="translate(-299.000000, -218.000000)">
+            <g id="iconmonstr-sharethis-1" transform="translate(299.000000, 218.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M9.8235,7.63002008 C9.1845,7.63002008 8.6095,7.90662651 8.2115,8.34738956 L4.317,6.41666667 C4.348,6.24447791 4.356,6.09538153 4.3505,5.9437751 L8.3795,3.81927711 C8.7635,4.16164659 9.2695,4.36997992 9.8235,4.36997992 C11.026,4.36997992 12,3.39206827 12,2.18524096 C12,0.978413655 11.026,0 9.8235,0 C8.6215,0 7.6475,0.978413655 7.6475,2.18524096 C7.6475,2.27560241 7.6535,2.36395582 7.664,2.45130522 L3.7495,4.51506024 C3.353,4.09889558 2.7955,3.83885542 2.1765,3.83885542 C0.974,3.83885542 0,4.81726908 0,6.02409639 C0,7.23092369 0.974,8.20933735 2.1765,8.20933735 C2.6825,8.20933735 3.148,8.03564257 3.518,7.7439759 L7.648,9.79116466 C7.648,9.79919679 7.6475,9.80722892 7.6475,9.81475904 C7.6475,11.0215863 8.6215,12 9.8235,12 C11.026,12 12,11.0215863 12,9.81475904 C12,8.60793173 11.026,7.63002008 9.8235,7.63002008" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
